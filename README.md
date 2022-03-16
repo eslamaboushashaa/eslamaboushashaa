@@ -15,6 +15,3 @@
 <a href="https://www.linkedin.com/in/eslamaboushashaa/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCj0aKGrBN6x2_PY0c6RrGNw">
-  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
